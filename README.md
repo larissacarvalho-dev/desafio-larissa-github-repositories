@@ -1,6 +1,6 @@
-# Projeto desenvolvido para o teste Ambar Living.
+# Projeto desenvolvido para o teste Ambar Living
 
-## Aplicação Android feita com a linguagem Flutter.
+## Aplicação Android feita com a linguagem Flutter
 
 - Utilizando a biblioteca mobX.
 - Arquitetura MVVM.
